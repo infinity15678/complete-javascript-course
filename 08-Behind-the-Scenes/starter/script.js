@@ -20,6 +20,7 @@ function calcAge(birthYear) {
            
         }
         //Throws error;
+        //millenial is defined within the if statement
         console.log(millenial);
     }
     printAge();
